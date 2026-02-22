@@ -38,5 +38,6 @@
 
 ### 1️⃣ Clone the Source
 ```bash
-git clone [https://github.com/yourusername/mega-video-uploader.git](https://github.com/yourusername/mega-video-uploader.git)
-cd mega-video-uploader
+git clone [https://github.com/Michaelsir916/Meganewup2gb.git](https://github.com/Michaelsir916/Meganewup2gb.git)
+cd Meganewup2gb
+
